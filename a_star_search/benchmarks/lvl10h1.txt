@@ -1,0 +1,48 @@
+Welcome to A* search algorithm for color maze
+Difficulty levels range from [92measy (1-5)[0m, [93mnormal (6-10)[0m, [91mhard (11-15)[0m
+
+Please select a maze level: 
+Goal state has been reached.
+
+Practical time and space complexity of the search:
+CPU time taken:[96m 4.044 [0mseconds
+Memory used:[96m 62.625 [0mMB
+
+Actions taken from initial node to goal state:
+
+Action 1: [92mUP[0m
+Action 2: [92mRIGHT[0m
+Action 3: [92mUP[0m
+Action 4: [92mLEFT[0m
+Action 5: [92mDOWN[0m
+Action 6: [92mRIGHT[0m
+Action 7: [92mUP[0m
+Action 8: [92mLEFT[0m
+Action 9: [92mUP[0m
+Action 10: [92mLEFT[0m
+Action 11: [92mRIGHT[0m
+Action 12: [92mDOWN[0m
+Action 13: [92mRIGHT[0m
+Action 14: [92mDOWN[0m
+Action 15: [92mLEFT[0m
+Action 16: [92mRIGHT[0m
+Action 17: [92mUP[0m
+Action 18: [92mRIGHT[0m
+Action 19: [92mUP[0m
+Action 20: [92mLEFT[0m
+Action 21: [92mDOWN[0m
+Action 22: [92mRIGHT[0m
+Action 23: [92mUP[0m
+Action 24: [92mDOWN[0m
+
+Number of cells in the maze: 46
+Difficulty score of the maze: 1.522
+Total distance traveled by the agent: 61
+Number of search steps: 7433
+Maximum number of nodes in the frontier at any time: 5995
+Number of nodes in the frontier at the end: 5994
+
+Analysis of the heuristic function for this solution:
+
+Is it admissible: [91mNO[0m
+Is it monotonic: [91mNO[0m
