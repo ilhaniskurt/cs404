@@ -1,0 +1,14 @@
+python main.py graph1.txt
+The chromatic number of the graph is 3.
+
+python main.py graph1.txt -k 3
+K (3) is greater than or equal to the number of vertices (3) in the graph. Without computation we can say that the graph can be colored using at most k colors.
+
+python main.py graph1.txt -k 2
+The graph cannot be colored using at most 2 colors.
+
+python main.py graph1.txt -k 1
+The graph cannot be colored using at most 1 colors.
+
+python main.py graph1.txt -k 0
+By definition graph cannot be colored using 0 colors.
